@@ -1,6 +1,9 @@
-# ng-table-export
+[![GitHub release](https://img.shields.io/github/release/sismics/docker-ng-table-export.svg?style=flat-square)](https://github.com/sismics/docker-backupninja/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This package adds a CSV export directive to ng-table for AngularJS.
+## About
+
+The **ng-table-export** package adds a CSV export directive to **ng-table** for AngularJS.
 
 # License
 
